@@ -1,4 +1,4 @@
-//outputs the number 5 on a dice
+#outputs the number 5 on a dice
 
 print("oooooooooooo")
 print("o          o")
